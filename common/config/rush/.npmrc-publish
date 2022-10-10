@@ -18,3 +18,8 @@
 #
 #   //registry.npmjs.org/:_authToken=${NPM_AUTH_TOKEN}
 #
+
+registry=http://192.168.82.210:4873/
+
+
+//192.168.82.210:4873/:_authToken="q2m8Ws5dyBhkiUt5uFN4gseLY/wxsLeRVUOuLRWeMpo="
