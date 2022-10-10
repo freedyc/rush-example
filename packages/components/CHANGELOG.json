@@ -2,6 +2,26 @@
   "name": "@dyck/components",
   "entries": [
     {
+      "version": "1.0.2",
+      "tag": "@dyck/components_v1.0.2",
+      "date": "Mon, 10 Oct 2022 12:53:28 GMT",
+      "comments": {
+        "patch": [
+          {
+            "comment": "update readme"
+          },
+          {
+            "comment": "update"
+          }
+        ],
+        "dependency": [
+          {
+            "comment": "Updating dependency \"@dyck/hooks\" to `1.0.2`"
+          }
+        ]
+      }
+    },
+    {
       "version": "1.0.1",
       "tag": "@dyck/components_v1.0.1",
       "date": "Mon, 10 Oct 2022 12:50:22 GMT",
