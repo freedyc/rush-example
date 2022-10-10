@@ -1,0 +1,20 @@
+{
+  "name": "@dyck/hooks",
+  "entries": [
+    {
+      "version": "1.0.1",
+      "tag": "@dyck/hooks_v1.0.1",
+      "date": "Mon, 10 Oct 2022 12:50:22 GMT",
+      "comments": {
+        "patch": [
+          {
+            "comment": "update hoooks"
+          },
+          {
+            "comment": "update hooks"
+          }
+        ]
+      }
+    }
+  ]
+}
