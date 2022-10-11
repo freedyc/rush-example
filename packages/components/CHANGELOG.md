@@ -1,6 +1,13 @@
 # Change Log - @dyck/components
 
-This log was last generated on Mon, 10 Oct 2022 12:53:28 GMT and should not be manually modified.
+This log was last generated on Tue, 11 Oct 2022 13:19:22 GMT and should not be manually modified.
+
+## 1.1.0
+Tue, 11 Oct 2022 13:19:22 GMT
+
+### Minor changes
+
+- add components
 
 ## 1.0.2
 Mon, 10 Oct 2022 12:53:28 GMT

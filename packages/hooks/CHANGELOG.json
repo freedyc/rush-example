@@ -2,6 +2,18 @@
   "name": "@dyck/hooks",
   "entries": [
     {
+      "version": "1.0.3",
+      "tag": "@dyck/hooks_v1.0.3",
+      "date": "Tue, 11 Oct 2022 13:19:22 GMT",
+      "comments": {
+        "patch": [
+          {
+            "comment": "update text"
+          }
+        ]
+      }
+    },
+    {
       "version": "1.0.2",
       "tag": "@dyck/hooks_v1.0.2",
       "date": "Mon, 10 Oct 2022 12:53:28 GMT",
