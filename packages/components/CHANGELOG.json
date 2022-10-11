@@ -2,6 +2,18 @@
   "name": "@dyck/components",
   "entries": [
     {
+      "version": "1.1.1",
+      "tag": "@dyck/components_v1.1.1",
+      "date": "Tue, 11 Oct 2022 13:31:17 GMT",
+      "comments": {
+        "patch": [
+          {
+            "comment": "update"
+          }
+        ]
+      }
+    },
+    {
       "version": "1.1.0",
       "tag": "@dyck/components_v1.1.0",
       "date": "Tue, 11 Oct 2022 13:19:22 GMT",
