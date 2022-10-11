@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+     "target": "esnext",
+     "lib": ["dom", "ESNext"],
+     "allowJs": true,
+     "jsx": "preserve",
+     "allowSyntheticDefaultImports": true,
+     "moduleResolution": "node"
+    },
+    "include": ["packages"],
+    "exclude": ["node_modules"]
+ }
